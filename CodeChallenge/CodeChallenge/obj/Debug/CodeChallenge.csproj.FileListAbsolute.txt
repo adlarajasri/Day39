@@ -1,0 +1,8 @@
+D:\UST\Day39\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.csproj.AssemblyReference.cache
+D:\UST\Day39\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.csproj.SuggestedBindingRedirects.cache
+D:\UST\Day39\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.csproj.CoreCompileInputs.cache
+D:\UST\Day39\CodeChallenge\CodeChallenge\bin\Debug\CodeChallenge.exe.config
+D:\UST\Day39\CodeChallenge\CodeChallenge\bin\Debug\CodeChallenge.exe
+D:\UST\Day39\CodeChallenge\CodeChallenge\bin\Debug\CodeChallenge.pdb
+D:\UST\Day39\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.exe
+D:\UST\Day39\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.pdb
